@@ -1,4 +1,4 @@
-name=thesis
+name=report
 
 .PHONY: lint
 
